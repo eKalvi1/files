@@ -72,6 +72,7 @@ function displayLinks(category, containerId) {
                             db.collection("links").doc("linkList").update({
                                 [key]: updatedDataValue
                             });
+                            location.reload();
                         });
                         singleDiv.appendChild(linkUrl);
 
