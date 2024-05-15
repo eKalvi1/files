@@ -1,0 +1,106 @@
+.category-section {
+    margin-bottom: 20px;
+    border: 1px solid #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center; /* Center the link name */
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+
+.category-section > * {
+    margin: 30px 0;
+}
+
+.single
+{
+    background-color: rgb(36, 122, 155);
+    padding: 20px 30px; /* Adjust padding as needed */
+    margin-bottom : "30px";
+}
+
+/* Style for the link items */
+.link-item {
+    margin-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Style for the download link */
+.download-link {
+    color: blue;
+    text-decoration: none;
+    color: white; /* Set text color to white */
+}
+
+/* Style for the download label */
+.download-label {
+    font-size: 14px;
+    color: gray;
+}
+
+/* Style for the link name */
+.link-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: white; /* Set text color to white */
+}
+
+/* Center the headings */
+h2 {
+    text-align: center;
+}
+a{
+    font-size: 22px;
+    color: rgb(8, 41, 54); /* Set text color to white */
+}
+
+h3
+{
+    color: white;
+}
+
+h5{
+    color: black;
+}
+.thumbnail
+{
+    width: 270px; /* Set the desired width */
+    height: auto;
+}
+
+
+#head
+{
+    text-align: center;
+    color: black;
+
+}
+button {
+    width: 200px; /* Set the width of the buttons */
+    height: 40px; /* Set the height of the buttons */
+    margin-bottom: 10px; /* Add margin between buttons */
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text color */
+    font-size: 16px; /* Font size */
+    border: none; /* Remove border */
+    border-radius: 5px; /* Add border radius */
+    cursor: pointer; /* Add pointer cursor on hover */
+    transition: background-color 0.3s; /* Add smooth transition for background color */
+}
+
+#buttonContainer {
+    text-align: center; /* Center the buttons horizontally */
+    align-items: center;
+}
+
+hr{
+    margin-top: 10px;
+    margin-bottom: 10px; /* Remove any margin */
+    padding: 0; /* Remove any padding */
+    border: none; /* Remove border */
+    border-top: 10px solid #ffffff; /* Add border on top for visual separation */
+    
+}
+
+
