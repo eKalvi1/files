@@ -1,1 +1,131 @@
-function _0x2e7c(_0x1a8a40,_0x5b6851){const _0x4cf16c=_0x3d88();return _0x2e7c=function(_0x19408a,_0x394c97){_0x19408a=_0x19408a-0x114;let _0x104ef7=_0x4cf16c[_0x19408a];return _0x104ef7;},_0x2e7c(_0x1a8a40,_0x5b6851);}const _0x5eff43=_0x2e7c;function _0x3d88(){const _0xdb46ec=['30px','links','940215CMoigh','single','not\x20found.','[RKCPdSKXSMIjvGBEpWcFBZIgsyQK]','8vYdbdz','split','forEach','collection','ekalvi-cb74c','988105OzudcS','get','add','container-10th','getElementById','10th.html','img','thumbnail','charCodeAt','classList','linkList','DOMContentLoaded','Download','51usUdrd','11th.html','return\x20(function()\x20','then','18HBpqmW','{}.constructor(\x22return\x20this\x22)(\x20)','AIzaSyAOgBaVjazFLpyugBTZii_Tgx4f7whz5H4','addEventListener','startsWith','76036IGhhFC','4580051ksDJMC','location','225820jfGvcF','aRKCPboduSKXtS:blaMInjvkGBEpWcFBZIgsyQK','error','slice','container-12th','innerHTML','data','appendChild','ekalvi1mY.FcgithuxHbB.SiosjzsHcTGrLOBRszfBqmnLCRJVDCyq','style','length','textContent','306zWxAOH','Container\x20with\x20ID','10th','2822212neGwnI','click','11th','indexOf','update','11458722zOiBNH','apply','createElement','div','href','[mYFcxHBSsjzsHcTGrLOBRszfBqmnLCRJVDCyq]','replace','12th.html'];_0x3d88=function(){return _0xdb46ec;};return _0x3d88();}(function(_0x15e300,_0x44c813){const _0x9532e5=_0x2e7c,_0x55f875=_0x15e300();while(!![]){try{const _0x16a028=parseInt(_0x9532e5(0x116))/0x1+parseInt(_0x9532e5(0x135))/0x2*(parseInt(_0x9532e5(0x12c))/0x3)+parseInt(_0x9532e5(0x147))/0x4+parseInt(_0x9532e5(0x11f))/0x5*(-parseInt(_0x9532e5(0x130))/0x6)+parseInt(_0x9532e5(0x136))/0x7*(parseInt(_0x9532e5(0x11a))/0x8)+-parseInt(_0x9532e5(0x144))/0x9*(parseInt(_0x9532e5(0x138))/0xa)+-parseInt(_0x9532e5(0x14c))/0xb;if(_0x16a028===_0x44c813)break;else _0x55f875['push'](_0x55f875['shift']());}catch(_0x2f85eb){_0x55f875['push'](_0x55f875['shift']());}}}(_0x3d88,0x84d0e));const _0x394c97=(function(){let _0x558df4=!![];return function(_0x253ca4,_0x21a218){const _0x492c68=_0x558df4?function(){const _0x35758c=_0x2e7c;if(_0x21a218){const _0x3e8220=_0x21a218[_0x35758c(0x14d)](_0x253ca4,arguments);return _0x21a218=null,_0x3e8220;}}:function(){};return _0x558df4=![],_0x492c68;};}()),_0x19408a=_0x394c97(this,function(){const _0x10c424=_0x2e7c,_0x2e315b=function(){const _0x1afcc5=_0x2e7c;let _0x57bdea;try{_0x57bdea=Function(_0x1afcc5(0x12e)+_0x1afcc5(0x131)+');')();}catch(_0x608816){_0x57bdea=window;}return _0x57bdea;},_0x59a8d3=_0x2e315b(),_0x51a424=new RegExp(_0x10c424(0x151),'g'),_0x4f010e=_0x10c424(0x140)[_0x10c424(0x152)](_0x51a424,'')['split'](';');let _0x2cd887,_0x44ab47,_0xa648e,_0x54e538;const _0x348a0e=function(_0x343fc0,_0x516c17,_0x4db9a0){const _0x34ca39=_0x10c424;if(_0x343fc0[_0x34ca39(0x142)]!=_0x516c17)return![];for(let _0x4aaca0=0x0;_0x4aaca0<_0x516c17;_0x4aaca0++){for(let _0xf4e015=0x0;_0xf4e015<_0x4db9a0['length'];_0xf4e015+=0x2){if(_0x4aaca0==_0x4db9a0[_0xf4e015]&&_0x343fc0[_0x34ca39(0x127)](_0x4aaca0)!=_0x4db9a0[_0xf4e015+0x1])return![];}}return!![];},_0x2cffe7=function(_0x2147aa,_0x49bf32,_0x193aba){return _0x348a0e(_0x49bf32,_0x193aba,_0x2147aa);},_0x4c1cbb=function(_0x1f0a4c,_0x53c5f5,_0x3f63c9){return _0x2cffe7(_0x53c5f5,_0x1f0a4c,_0x3f63c9);},_0x61296f=function(_0x5393e0,_0x3e372b,_0x11d14d){return _0x4c1cbb(_0x3e372b,_0x11d14d,_0x5393e0);};for(let _0x415c06 in _0x59a8d3){if(_0x348a0e(_0x415c06,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x2cd887=_0x415c06;break;}}for(let _0x451b65 in _0x59a8d3[_0x2cd887]){if(_0x61296f(0x6,_0x451b65,[0x5,0x6e,0x0,0x64])){_0x44ab47=_0x451b65;break;}}for(let _0x439b2c in _0x59a8d3[_0x2cd887]){if(_0x4c1cbb(_0x439b2c,[0x7,0x6e,0x0,0x6c],0x8)){_0xa648e=_0x439b2c;break;}}if(!('~'>_0x44ab47))for(let _0x1dca8e in _0x59a8d3[_0x2cd887][_0xa648e]){if(_0x2cffe7([0x7,0x65,0x0,0x68],_0x1dca8e,0x8)){_0x54e538=_0x1dca8e;break;}}if(!_0x2cd887||!_0x59a8d3[_0x2cd887])return;const _0x961b14=_0x59a8d3[_0x2cd887][_0x44ab47],_0x552929=!!_0x59a8d3[_0x2cd887][_0xa648e]&&_0x59a8d3[_0x2cd887][_0xa648e][_0x54e538],_0x2c26da=_0x961b14||_0x552929;if(!_0x2c26da)return;let _0x4a32a0=![];for(let _0x5cb569=0x0;_0x5cb569<_0x4f010e[_0x10c424(0x142)];_0x5cb569++){const _0x558caf=_0x4f010e[_0x5cb569],_0x100e53=_0x558caf[0x0]===String['fromCharCode'](0x2e)?_0x558caf[_0x10c424(0x13b)](0x1):_0x558caf,_0x1d7126=_0x2c26da[_0x10c424(0x142)]-_0x100e53[_0x10c424(0x142)],_0x313c60=_0x2c26da[_0x10c424(0x14a)](_0x100e53,_0x1d7126),_0x34f7ab=_0x313c60!==-0x1&&_0x313c60===_0x1d7126;_0x34f7ab&&((_0x2c26da[_0x10c424(0x142)]==_0x558caf[_0x10c424(0x142)]||_0x558caf[_0x10c424(0x14a)]('.')===0x0)&&(_0x4a32a0=!![]));}if(!_0x4a32a0){const _0xb64a68=new RegExp(_0x10c424(0x119),'g'),_0x4735fd=_0x10c424(0x139)[_0x10c424(0x152)](_0xb64a68,'');_0x59a8d3[_0x2cd887][_0xa648e]=_0x4735fd;}});_0x19408a(),firebase['initializeApp']({'apiKey':_0x5eff43(0x132),'authDomain':'ekalvi-cb74c.firebaseapp.com','projectId':_0x5eff43(0x11e)});const db=firebase['firestore'](),searchBox=document['getElementById']('searchBox');document[_0x5eff43(0x133)](_0x5eff43(0x12a),function(){const _0x19cdf8=_0x5eff43;function _0x598311(_0x21d76d){const _0x3b1925=_0x2e7c,_0x16e791=document[_0x3b1925(0x123)](_0x21d76d);_0x16e791?_0x16e791[_0x3b1925(0x13d)]='':console[_0x3b1925(0x13a)](_0x3b1925(0x145),_0x21d76d,_0x3b1925(0x118));}function _0x8f1eb3(_0x3fbb4f,_0x349189){const _0x5d2fd8=_0x2e7c;db[_0x5d2fd8(0x11d)](_0x5d2fd8(0x115))[_0x5d2fd8(0x120)]()[_0x5d2fd8(0x12f)](_0x366140=>{const _0x30614c=_0x5d2fd8;_0x366140[_0x30614c(0x11c)](_0x536102=>{const _0x50b448=_0x30614c;if(_0x536102['id']==_0x50b448(0x129)){const _0x5d1f99=_0x536102[_0x50b448(0x13e)](),_0x37afe2=document[_0x50b448(0x123)](_0x349189),_0x27b0d3=document['createElement'](_0x50b448(0x14f));let _0x1a9dfa=!![],_0x1bdf59=0x0;for(const _0x7255fd in _0x5d1f99){const _0x30169f=_0x5d1f99[_0x7255fd][_0x50b448(0x11b)](',');if(_0x7255fd[_0x50b448(0x134)](_0x3fbb4f)&&_0x30169f[_0x50b448(0x142)]>=0x3&&_0x30169f[0x3]=='0'){if(!_0x1a9dfa){const _0x5ba313=document[_0x50b448(0x14e)](_0x50b448(0x14f));_0x5ba313[_0x50b448(0x141)]['height']=_0x50b448(0x114),_0x27b0d3[_0x50b448(0x13f)](_0x5ba313);}else _0x1a9dfa=![];const _0x52231f=document[_0x50b448(0x14e)](_0x50b448(0x14f));_0x52231f['classList'][_0x50b448(0x121)](_0x50b448(0x117));const _0x261b5e=document['createElement'](_0x50b448(0x125));_0x261b5e['src']=_0x5d1f99[_0x7255fd][_0x50b448(0x11b)](',')[0x1],_0x261b5e[_0x50b448(0x128)][_0x50b448(0x121)](_0x50b448(0x126)),_0x52231f[_0x50b448(0x13f)](_0x261b5e);const _0x382245=document['createElement']('h3');_0x382245[_0x50b448(0x143)]=_0x7255fd,_0x52231f['appendChild'](_0x382245);const _0x324190=document[_0x50b448(0x14e)]('a');_0x324190[_0x50b448(0x143)]=_0x50b448(0x12b),_0x324190[_0x50b448(0x150)]=_0x5d1f99[_0x7255fd][_0x50b448(0x11b)](',')[0x0],_0x324190[_0x50b448(0x133)](_0x50b448(0x148),function(){const _0x1a4c3a=_0x50b448,_0x53264d=_0x5d1f99[_0x7255fd]['split'](','),_0x321aa7=parseInt(_0x53264d[0x2])||0x0;_0x53264d[0x2]=_0x321aa7+0x1;const _0x693b97=_0x53264d['join'](',');db[_0x1a4c3a(0x11d)](_0x1a4c3a(0x115))['doc'](_0x1a4c3a(0x129))[_0x1a4c3a(0x14b)]({[_0x7255fd]:_0x693b97}),location['reload']();}),_0x52231f[_0x50b448(0x13f)](_0x324190),_0x27b0d3[_0x50b448(0x13f)](_0x52231f),_0x1bdf59++;}}_0x598311(_0x349189),_0x37afe2[_0x50b448(0x13f)](_0x27b0d3);}});});}_0x8f1eb3(_0x19cdf8(0x146),_0x19cdf8(0x122)),_0x8f1eb3(_0x19cdf8(0x149),'container-11th'),_0x8f1eb3('12th',_0x19cdf8(0x13c));const _0x4a9f9c=document[_0x19cdf8(0x123)]('openButton10th'),_0x2b284d=document[_0x19cdf8(0x123)]('openButton11th'),_0x278f1c=document[_0x19cdf8(0x123)]('openButton12th');_0x4a9f9c[_0x19cdf8(0x133)]('click',function(){const _0x10399d=_0x19cdf8;window[_0x10399d(0x137)][_0x10399d(0x150)]=_0x10399d(0x124);}),_0x2b284d['addEventListener'](_0x19cdf8(0x148),function(){const _0x5d428e=_0x19cdf8;window['location'][_0x5d428e(0x150)]=_0x5d428e(0x12d);}),_0x278f1c[_0x19cdf8(0x133)](_0x19cdf8(0x148),function(){const _0x4ac711=_0x19cdf8;window[_0x4ac711(0x137)][_0x4ac711(0x150)]=_0x4ac711(0x153);});});
+
+
+firebase.initializeApp({
+    apiKey: 'AIzaSyAOgBaVjazFLpyugBTZii_Tgx4f7whz5H4',
+    authDomain: 'ekalvi-cb74c.firebaseapp.com',
+    projectId: 'ekalvi-cb74c'
+});
+
+const db = firebase.firestore();
+const searchBox = document.getElementById('searchBox');
+
+
+document.addEventListener('DOMContentLoaded', function() {
+
+
+function clearContainer(containerId) {
+    const container = document.getElementById(containerId);
+    if (container) {
+        container.innerHTML = ""; // Clear the contents
+    } else {
+        console.error("Container with ID", containerId, "not found.");
+    }
+}
+
+
+function displayLinks(category, containerId) {
+    db.collection("links").get().then((querySnapshot) => {
+        querySnapshot.forEach((doc) => {
+            if (doc.id == "linkList") {
+                const data = doc.data();
+                const linksContainer = document.getElementById(containerId);
+                const linkContainer = document.createElement("div");
+
+                let isFirstLink = true;
+                let divIndex = 0;
+
+                for (const key in data) {
+
+                    const dataArray = data[key].split(',');
+                    if (key.startsWith(category) && dataArray.length >= 3 && dataArray[3] == "0") {
+                        if (!isFirstLink) {
+                            // Add space between divs
+                            const space = document.createElement("div");
+                            space.style.height = "30px";
+                            linkContainer.appendChild(space);
+                        } else {
+                            isFirstLink = false;
+                        }
+
+                        const singleDiv = document.createElement("div");
+                        singleDiv.classList.add("single");
+
+                        const image = document.createElement("img");
+                        image.src = data[key].split(',')[1]; // Replace with your global link
+                        //unity favour = image.src = "https://drive.google.com/uc?id=1UdGgDit_l1DA87gyrRj2PmzmYg-aTTYk";
+                        image.classList.add("thumbnail");
+                        singleDiv.appendChild(image);
+
+                        const linkName = document.createElement("h3");
+                        linkName.textContent = key;
+                        singleDiv.appendChild(linkName);
+
+                        const linkUrl = document.createElement("a");
+                        linkUrl.textContent = "Download";
+                        linkUrl.href = data[key].split(',')[0];
+                        linkUrl.addEventListener('click', function() {
+                            // Split data value and update the second index with download count
+                            const dataArray = data[key].split(',');
+                            const downloadCount = parseInt(dataArray[2]) || 0; // Parse the download count or default to 0
+                            dataArray[2] = downloadCount + 1; // Increment the download count
+                            const updatedDataValue = dataArray.join(',');
+                            db.collection("links").doc("linkList").update({
+                                [key]: updatedDataValue
+                            });
+
+                            location.reload();
+                        });
+                        singleDiv.appendChild(linkUrl);
+
+                        linkContainer.appendChild(singleDiv);
+                        divIndex++;
+                    }
+                }
+                clearContainer(containerId);
+
+                linksContainer.appendChild(linkContainer);
+            }
+        });
+    });
+}
+
+
+
+// Call displayLinks function for each category
+displayLinks("10th", "container-10th");
+displayLinks("11th", "container-11th");
+displayLinks("12th", "container-12th");
+
+
+
+
+
+
+
+
+// Get the button elements
+
+const openButton10th = document.getElementById('openButton10th');
+const openButton11th = document.getElementById('openButton11th');
+const openButton12th = document.getElementById("openButton12th");
+
+
+
+
+// Add click event listeners to the buttons
+openButton10th.addEventListener('click', function() {
+    // Redirect to 10th HTML file
+    window.location.href = '10th.html';
+});
+
+openButton11th.addEventListener('click', function() {
+    // Redirect to 11th HTML file
+    window.location.href = '11th.html';
+});
+
+openButton12th.addEventListener('click', function() {
+    // Redirect to 12th HTML file
+    window.location.href = '12th.html';
+});
+
+});
